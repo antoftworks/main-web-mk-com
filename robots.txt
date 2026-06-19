@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://antoftworks.github.io/main-web-mk-com/sitemap.xml
